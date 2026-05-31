@@ -7,7 +7,14 @@ Built with Python, Streamlit, and Deep Learning techniques to provide an interac
 
 ## Application Preview
 
-![Application Screenshot](screenshot.png)
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Uploaded Image view
+![Uploaded_Image_View](screenshots/uploaded_image_view.png)
+
+### Caption Generation Result
+![Caption_Generation_Result](screenshots/caption_generation_result.png)
 
 
 ## Features
