@@ -51,10 +51,10 @@ Built with Python, Streamlit, and Deep Learning techniques to provide an interac
 ```text
 AI-Visual-Intelligence-Assistant/
 │
-├── app.py
-├── requirements.txt
+├── screenshot.png
 ├── README.md
-└── screenshot.png
+├── app.py
+└── requirements.txt
 ```
 
 
